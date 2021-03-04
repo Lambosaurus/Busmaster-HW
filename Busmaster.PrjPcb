@@ -218,145 +218,73 @@ Variation1=Designator=J2|UniqueId=\HEOMIUBX|Kind=1|AlternatePart=
 Variation2=Designator=J3|UniqueId=\CCESPMBW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Outputs\NC Drill\Busmaster.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Outputs\Gerber\Busmaster.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Outputs\Gerber\Busmaster.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Outputs\Gerber\Busmaster.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Outputs\Gerber\Busmaster.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Outputs\Gerber\Busmaster.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Outputs\Gerber\Busmaster.GM31
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Outputs\Gerber\Busmaster.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Outputs\Gerber\Busmaster.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Outputs\Gerber\Busmaster.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Outputs\Gerber\Busmaster.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Outputs\Gerber\Busmaster.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Outputs\Gerber\Busmaster.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Outputs\NC Drill\Busmaster.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Outputs\Gerber\Busmaster.REP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Outputs\Gerber\Busmaster.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Outputs\NC Drill\Busmaster.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=outputs\Design Rule Check - Busmaster.html
-DItemRevisionGUID=
-
 [Parameter1]
-Name=Project_Address1
-Value=InFact Ltd.
+Name=Project_URL
+Value=
 
 [Parameter2]
-Name=Project_Address2
-Value=5 Amuri Park
+Name=Project_Revision
+Value=1.0
 
 [Parameter3]
-Name=Project_Address3
-Value=404 Barbadoes Street
+Name=Project_Phone
+Value=
 
 [Parameter4]
-Name=Project_Address4
-Value=Christchurch 8013
+Name=Project_Name
+Value=
 
 [Parameter5]
-Name=Project_Address5
-Value=New Zealand
+Name=Project_LayoutBy
+Value=
 
 [Parameter6]
-Name=Project_Board_Name
+Name=Project_DraftingBy
 Value=
 
 [Parameter7]
-Name=Project_CheckingBy
+Name=Project_DesignBy
 Value=
 
 [Parameter8]
-Name=Project_Client
-Value=Client
+Name=Project_Description
+Value=
 
 [Parameter9]
 Name=Project_ComponentsBy
 Value=
 
 [Parameter10]
-Name=Project_Description
-Value=PXXX-50X - Description
-
-[Parameter11]
-Name=Project_DesignBy
-Value=Infact HW Team
-
-[Parameter12]
-Name=Project_DraftingBy
+Name=Project_Client
 Value=
 
+[Parameter11]
+Name=Project_CheckingBy
+Value=
+
+[Parameter12]
+Name=Project_Board_Name
+Value=Busmaster
+
 [Parameter13]
-Name=Project_LayoutBy
+Name=Project_Address5
 Value=
 
 [Parameter14]
-Name=Project_Name
+Name=Project_Address4
 Value=
 
 [Parameter15]
-Name=Project_Phone
-Value=+64 3 3777316
+Name=Project_Address3
+Value=
 
 [Parameter16]
-Name=Project_Revision
-Value=0A
+Name=Project_Address2
+Value=
 
 [Parameter17]
-Name=Project_URL
-Value=www.infact.co.nz
+Name=Project_Address1
+Value=
 
 [Configuration1]
 Name=Default Configuration
@@ -948,6 +876,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
